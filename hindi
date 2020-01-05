@@ -29,3 +29,5 @@ http://103.205.133.14/hls/maasranga.m3u8?token=YE2ELZQFeM9xdrxMhVwA4Q&expires=15
 https://raw.githubusercontent.com/imran1496/Hindi/master/hindi?token=AOF6J5J2NYGSXR2NPGFMK526CGTSE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",Starplus
 http://185.152.64.54:2200/R-EX/HINDI_FOX_LIFE_HD_S-in/index.m3u8?token=lT6jBj08PRJFDuTg-cw1Xw==,1578232531.5496482130
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",Starplus
+http://185.152.64.54:2200/R-EX/HINDI_MTV_PLUS_HD_S-in/tracks-v1a1/mono.m3u8?token=lT6jBj08PRJFDuTg-cw1Xw%3D%3D%2C1578232531.5496482130
