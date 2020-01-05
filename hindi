@@ -1,12 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",SONY_HD
+http://185.152.64.54:2200/R-EX/HINDI_SONY_HD_S-in/tracks-v1a1/mono.m3u8?token=lT6jBj08PRJFDuTg-cw1Xw%3D%3D%2C1578232531.5496482130
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",HINDI_MTV_PLUS_HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",HINDI_FOX_LIFE_HD
+http://185.152.64.54:2200/R-EX/HINDI_FOX_LIFE_HD_S-in/index.m3u8?token=lT6jBj08PRJFDuTg-cw1Xw==,1578232531.5496482130
+http://185.152.64.54:2200/R-EX/HINDI_MTV_PLUS_HD_S-in/tracks-v1a1/mono.m3u8?token=lT6jBj08PRJFDuTg-cw1Xw%3D%3D%2C1578232531.5496482130
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",andpriveHD
+http://103.121.36.238:8081/live/andprive-28/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",vh1
 http://live.airteltvplus.com/hls/pmUd_Lcmk_mGiTVry-pY6Q/1568453189/vh1_india_low/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",ATN NEWS
 http://42.0.6.130/hls/9wtIyoyl1vgtKK5pmIDuEA/1564901969/atn_news_mid/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",Starplus
 http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",andpriveHD
-http://103.121.36.238:8081/live/andprive-28/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",mnx
 http://103.121.36.238:8081/live/mnx/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",startworld
@@ -17,15 +23,6 @@ http://103.121.36.238:8081/live/natgeop/chunks.m3u8
 http://103.121.36.238:8081/live/natgeowild/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",natgeohd
 http://103.121.36.238:8081/live/natgeohd/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",banglavision
-http://103.205.133.19/hls/banglavision.m3u8?token=vheM0cGBy5cZUCUntbmxLA&expires=1578216063&shouldbe=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",atnbangla
-http://103.205.133.19/hls/atnbangla.m3u8?token=9tf_6SuhxNz9BSn2KZns-g&expires=1578216063&shouldbe=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",SONY_HD
-http://185.152.64.54:2200/R-EX/HINDI_SONY_HD_S-in/tracks-v1a1/mono.m3u8?token=lT6jBj08PRJFDuTg-cw1Xw%3D%3D%2C1578232531.5496482130
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",maasranga
-http://103.205.133.14/hls/maasranga.m3u8?token=YE2ELZQFeM9xdrxMhVwA4Q&expires=1578216368&shouldbe=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",HINDI_FOX_LIFE_HD
-http://185.152.64.54:2200/R-EX/HINDI_FOX_LIFE_HD_S-in/index.m3u8?token=lT6jBj08PRJFDuTg-cw1Xw==,1578232531.5496482130
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",HINDI_MTV_PLUS_HD
 http://185.152.64.54:2200/R-EX/HINDI_MTV_PLUS_HD_S-in/tracks-v1a1/mono.m3u8?token=lT6jBj08PRJFDuTg-cw1Xw%3D%3D%2C1578232531.5496482130
+
