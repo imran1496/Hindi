@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",SONYTV
 http://live.airteltvplus.com/hls/pmUd_Lcmk_mGiTVry-pY6Q/1568453189/vh1_india_low/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",ATN NEWS
+http://42.0.6.130/hls/9wtIyoyl1vgtKK5pmIDuEA/1564901969/atn_news_mid/index.m3u8
