@@ -14,6 +14,14 @@ http://103.121.36.238:8081/live/startworld/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",Starplus
 http://103.121.36.238:8081/live/natgeop/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",Starplus
-http://103.121.36.238:8081/live/startworld/chunks.m3u8
+http://103.121.36.238:8081/live/natgeowild/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",Starplus
 http://103.121.36.238:8081/live/natgeohd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",Starplus
+http://103.205.133.19/hls/banglavision.m3u8?token=vheM0cGBy5cZUCUntbmxLA&expires=1578216063&shouldbe=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",Starplus
+http://103.205.133.19/hls/atnbangla.m3u8?token=9tf_6SuhxNz9BSn2KZns-g&expires=1578216063&shouldbe=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",Starplus
+http://185.152.64.54:2200/R-EX/HINDI_SONY_HD_S-in/tracks-v1a1/mono.m3u8?token=lT6jBj08PRJFDuTg-cw1Xw%3D%3D%2C1578232531.5496482130
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",Starplus
+http://103.205.133.14/hls/maasranga.m3u8?token=YE2ELZQFeM9xdrxMhVwA4Q&expires=1578216368&shouldbe=.m3u8
