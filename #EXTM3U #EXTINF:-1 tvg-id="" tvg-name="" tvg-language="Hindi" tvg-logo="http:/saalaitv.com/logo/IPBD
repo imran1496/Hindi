@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",asian_tv
 http://42.0.6.130:80/hls/9wtIyoyl1vgtKK5pmIDuEA/1564901969/asian_tv_mid/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",asian_tv
+http://42.0.6.130:80/hls/9wtIyoyl1vgtKK5pmIDuEA/1564901969/asian_tv_hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",atn_bangla
 http://42.0.6.130:80/hls/9wtIyoyl1vgtKK5pmIDuEA/1564901969/atn_bangla_mid/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title=""atn_news
